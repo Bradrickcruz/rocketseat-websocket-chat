@@ -1,0 +1,542 @@
+{
+  "ejs": {
+    "3.1.8": {
+      "path": "\\node_modules\\ejs",
+      "cache": "\\ejs\\3.1.8"
+    }
+  },
+  "socket.io": {
+    "4.5.3": {
+      "path": "\\node_modules\\socket.io",
+      "cache": "\\socket.io\\4.5.3"
+    }
+  },
+  "debug": {
+    "4.3.4": {
+      "path": "\\node_modules\\debug",
+      "cache": "\\debug\\4.3.4"
+    },
+    "2.6.9": {
+      "path": "\\node_modules\\express\\node_modules\\debug",
+      "cache": "\\debug\\2.6.9"
+    }
+  },
+  "base64id": {
+    "2.0.0": {
+      "path": "\\node_modules\\base64id",
+      "cache": "\\base64id\\2.0.0"
+    }
+  },
+  "ms": {
+    "2.1.2": {
+      "path": "\\node_modules\\ms",
+      "cache": "\\ms\\2.1.2"
+    },
+    "2.1.3": {
+      "path": "\\node_modules\\send\\node_modules\\ms",
+      "cache": "\\ms\\2.1.3"
+    },
+    "2.0.0": {
+      "path": "\\node_modules\\express\\node_modules\\ms",
+      "cache": "\\ms\\2.0.0"
+    }
+  },
+  "socket.io-parser": {
+    "4.2.1": {
+      "path": "\\node_modules\\socket.io-parser",
+      "cache": "\\socket.io-parser\\4.2.1"
+    }
+  },
+  "express": {
+    "4.18.2": {
+      "path": "\\node_modules\\express",
+      "cache": "\\express\\4.18.2"
+    }
+  },
+  "accepts": {
+    "1.3.8": {
+      "path": "\\node_modules\\accepts",
+      "cache": "\\accepts\\1.3.8"
+    }
+  },
+  "socket.io-adapter": {
+    "2.4.0": {
+      "path": "\\node_modules\\socket.io-adapter",
+      "cache": "\\socket.io-adapter\\2.4.0"
+    }
+  },
+  "depd": {
+    "2.0.0": {
+      "path": "\\node_modules\\depd",
+      "cache": "\\depd\\2.0.0"
+    }
+  },
+  "array-flatten": {
+    "1.1.1": {
+      "path": "\\node_modules\\array-flatten",
+      "cache": "\\array-flatten\\1.1.1"
+    }
+  },
+  "escape-html": {
+    "1.0.3": {
+      "path": "\\node_modules\\escape-html",
+      "cache": "\\escape-html\\1.0.3"
+    }
+  },
+  "cookie-signature": {
+    "1.0.6": {
+      "path": "\\node_modules\\cookie-signature",
+      "cache": "\\cookie-signature\\1.0.6"
+    }
+  },
+  "etag": {
+    "1.8.1": {
+      "path": "\\node_modules\\etag",
+      "cache": "\\etag\\1.8.1"
+    }
+  },
+  "fresh": {
+    "0.5.2": {
+      "path": "\\node_modules\\fresh",
+      "cache": "\\fresh\\0.5.2"
+    }
+  },
+  "content-type": {
+    "1.0.4": {
+      "path": "\\node_modules\\content-type",
+      "cache": "\\content-type\\1.0.4"
+    }
+  },
+  "encodeurl": {
+    "1.0.2": {
+      "path": "\\node_modules\\encodeurl",
+      "cache": "\\encodeurl\\1.0.2"
+    }
+  },
+  "content-disposition": {
+    "0.5.4": {
+      "path": "\\node_modules\\content-disposition",
+      "cache": "\\content-disposition\\0.5.4"
+    }
+  },
+  "safe-buffer": {
+    "5.2.1": {
+      "path": "\\node_modules\\safe-buffer",
+      "cache": "\\safe-buffer\\5.2.1"
+    }
+  },
+  "methods": {
+    "1.1.2": {
+      "path": "\\node_modules\\methods",
+      "cache": "\\methods\\1.1.2"
+    }
+  },
+  "cookie": {
+    "0.5.0": {
+      "path": "\\node_modules\\cookie",
+      "cache": "\\cookie\\0.5.0"
+    },
+    "0.4.2": {
+      "path": "\\node_modules\\engine.io\\node_modules\\cookie",
+      "cache": "\\cookie\\0.4.2"
+    }
+  },
+  "merge-descriptors": {
+    "1.0.1": {
+      "path": "\\node_modules\\merge-descriptors",
+      "cache": "\\merge-descriptors\\1.0.1"
+    }
+  },
+  "http-errors": {
+    "2.0.0": {
+      "path": "\\node_modules\\http-errors",
+      "cache": "\\http-errors\\2.0.0"
+    }
+  },
+  "finalhandler": {
+    "1.2.0": {
+      "path": "\\node_modules\\finalhandler",
+      "cache": "\\finalhandler\\1.2.0"
+    }
+  },
+  "path-to-regexp": {
+    "0.1.7": {
+      "path": "\\node_modules\\path-to-regexp",
+      "cache": "\\path-to-regexp\\0.1.7"
+    }
+  },
+  "parseurl": {
+    "1.3.3": {
+      "path": "\\node_modules\\parseurl",
+      "cache": "\\parseurl\\1.3.3"
+    }
+  },
+  "range-parser": {
+    "1.2.1": {
+      "path": "\\node_modules\\range-parser",
+      "cache": "\\range-parser\\1.2.1"
+    }
+  },
+  "proxy-addr": {
+    "2.0.7": {
+      "path": "\\node_modules\\proxy-addr",
+      "cache": "\\proxy-addr\\2.0.7"
+    }
+  },
+  "@socket.io/component-emitter": {
+    "3.1.0": {
+      "path": "\\node_modules\\@socket.io\\component-emitter",
+      "cache": "\\@socket.io\\component-emitter\\3.1.0"
+    }
+  },
+  "type-is": {
+    "1.6.18": {
+      "path": "\\node_modules\\type-is",
+      "cache": "\\type-is\\1.6.18"
+    }
+  },
+  "utils-merge": {
+    "1.0.1": {
+      "path": "\\node_modules\\utils-merge",
+      "cache": "\\utils-merge\\1.0.1"
+    }
+  },
+  "vary": {
+    "1.1.2": {
+      "path": "\\node_modules\\vary",
+      "cache": "\\vary\\1.1.2"
+    }
+  },
+  "send": {
+    "0.18.0": {
+      "path": "\\node_modules\\send",
+      "cache": "\\send\\0.18.0"
+    }
+  },
+  "mime-types": {
+    "2.1.35": {
+      "path": "\\node_modules\\mime-types",
+      "cache": "\\mime-types\\2.1.35"
+    }
+  },
+  "statuses": {
+    "2.0.1": {
+      "path": "\\node_modules\\statuses",
+      "cache": "\\statuses\\2.0.1"
+    }
+  },
+  "negotiator": {
+    "0.6.3": {
+      "path": "\\node_modules\\negotiator",
+      "cache": "\\negotiator\\0.6.3"
+    }
+  },
+  "body-parser": {
+    "1.20.1": {
+      "path": "\\node_modules\\body-parser",
+      "cache": "\\body-parser\\1.20.1"
+    }
+  },
+  "serve-static": {
+    "1.15.0": {
+      "path": "\\node_modules\\serve-static",
+      "cache": "\\serve-static\\1.15.0"
+    }
+  },
+  "inherits": {
+    "2.0.4": {
+      "path": "\\node_modules\\inherits",
+      "cache": "\\inherits\\2.0.4"
+    }
+  },
+  "toidentifier": {
+    "1.0.1": {
+      "path": "\\node_modules\\toidentifier",
+      "cache": "\\toidentifier\\1.0.1"
+    }
+  },
+  "unpipe": {
+    "1.0.0": {
+      "path": "\\node_modules\\unpipe",
+      "cache": "\\unpipe\\1.0.0"
+    }
+  },
+  "on-finished": {
+    "2.4.1": {
+      "path": "\\node_modules\\on-finished",
+      "cache": "\\on-finished\\2.4.1"
+    }
+  },
+  "forwarded": {
+    "0.2.0": {
+      "path": "\\node_modules\\forwarded",
+      "cache": "\\forwarded\\0.2.0"
+    }
+  },
+  "ipaddr.js": {
+    "1.9.1": {
+      "path": "\\node_modules\\ipaddr.js",
+      "cache": "\\ipaddr.js\\1.9.1"
+    }
+  },
+  "media-typer": {
+    "0.3.0": {
+      "path": "\\node_modules\\media-typer",
+      "cache": "\\media-typer\\0.3.0"
+    }
+  },
+  "destroy": {
+    "1.2.0": {
+      "path": "\\node_modules\\destroy",
+      "cache": "\\destroy\\1.2.0"
+    }
+  },
+  "setprototypeof": {
+    "1.2.0": {
+      "path": "\\node_modules\\setprototypeof",
+      "cache": "\\setprototypeof\\1.2.0"
+    }
+  },
+  "qs": {
+    "6.11.0": {
+      "path": "\\node_modules\\qs",
+      "cache": "\\qs\\6.11.0"
+    }
+  },
+  "bytes": {
+    "3.1.2": {
+      "path": "\\node_modules\\bytes",
+      "cache": "\\bytes\\3.1.2"
+    }
+  },
+  "mime-db": {
+    "1.52.0": {
+      "path": "\\node_modules\\mime-db",
+      "cache": "\\mime-db\\1.52.0"
+    }
+  },
+  "mime": {
+    "1.6.0": {
+      "path": "\\node_modules\\mime",
+      "cache": "\\mime\\1.6.0"
+    }
+  },
+  "raw-body": {
+    "2.5.1": {
+      "path": "\\node_modules\\raw-body",
+      "cache": "\\raw-body\\2.5.1"
+    }
+  },
+  "ee-first": {
+    "1.1.1": {
+      "path": "\\node_modules\\ee-first",
+      "cache": "\\ee-first\\1.1.1"
+    }
+  },
+  "engine.io": {
+    "6.2.0": {
+      "path": "\\node_modules\\engine.io",
+      "cache": "\\engine.io\\6.2.0"
+    }
+  },
+  "side-channel": {
+    "1.0.4": {
+      "path": "\\node_modules\\side-channel",
+      "cache": "\\side-channel\\1.0.4"
+    }
+  },
+  "jake": {
+    "10.8.5": {
+      "path": "\\node_modules\\jake",
+      "cache": "\\jake\\10.8.5"
+    }
+  },
+  "iconv-lite": {
+    "0.4.24": {
+      "path": "\\node_modules\\iconv-lite",
+      "cache": "\\iconv-lite\\0.4.24"
+    }
+  },
+  "minimatch": {
+    "3.1.2": {
+      "path": "\\node_modules\\minimatch",
+      "cache": "\\minimatch\\3.1.2"
+    },
+    "5.1.0": {
+      "path": "\\node_modules\\filelist\\node_modules\\minimatch",
+      "cache": "\\minimatch\\5.1.0"
+    }
+  },
+  "call-bind": {
+    "1.0.2": {
+      "path": "\\node_modules\\call-bind",
+      "cache": "\\call-bind\\1.0.2"
+    }
+  },
+  "get-intrinsic": {
+    "1.1.3": {
+      "path": "\\node_modules\\get-intrinsic",
+      "cache": "\\get-intrinsic\\1.1.3"
+    }
+  },
+  "chalk": {
+    "4.1.2": {
+      "path": "\\node_modules\\chalk",
+      "cache": "\\chalk\\4.1.2"
+    }
+  },
+  "ws": {
+    "8.2.3": {
+      "path": "\\node_modules\\ws",
+      "cache": "\\ws\\8.2.3"
+    }
+  },
+  "@types/cookie": {
+    "0.4.1": {
+      "path": "\\node_modules\\@types\\cookie",
+      "cache": "\\@types\\cookie\\0.4.1"
+    }
+  },
+  "safer-buffer": {
+    "2.1.2": {
+      "path": "\\node_modules\\safer-buffer",
+      "cache": "\\safer-buffer\\2.1.2"
+    }
+  },
+  "brace-expansion": {
+    "1.1.11": {
+      "path": "\\node_modules\\brace-expansion",
+      "cache": "\\brace-expansion\\1.1.11"
+    },
+    "2.0.1": {
+      "path": "\\node_modules\\filelist\\node_modules\\brace-expansion",
+      "cache": "\\brace-expansion\\2.0.1"
+    }
+  },
+  "engine.io-parser": {
+    "5.0.4": {
+      "path": "\\node_modules\\engine.io-parser",
+      "cache": "\\engine.io-parser\\5.0.4"
+    }
+  },
+  "has": {
+    "1.0.3": {
+      "path": "\\node_modules\\has",
+      "cache": "\\has\\1.0.3"
+    }
+  },
+  "supports-color": {
+    "7.2.0": {
+      "path": "\\node_modules\\supports-color",
+      "cache": "\\supports-color\\7.2.0"
+    }
+  },
+  "function-bind": {
+    "1.1.1": {
+      "path": "\\node_modules\\function-bind",
+      "cache": "\\function-bind\\1.1.1"
+    }
+  },
+  "ansi-styles": {
+    "4.3.0": {
+      "path": "\\node_modules\\ansi-styles",
+      "cache": "\\ansi-styles\\4.3.0"
+    }
+  },
+  "balanced-match": {
+    "1.0.2": {
+      "path": "\\node_modules\\balanced-match",
+      "cache": "\\balanced-match\\1.0.2"
+    }
+  },
+  "concat-map": {
+    "0.0.1": {
+      "path": "\\node_modules\\concat-map",
+      "cache": "\\concat-map\\0.0.1"
+    }
+  },
+  "cors": {
+    "2.8.5": {
+      "path": "\\node_modules\\cors",
+      "cache": "\\cors\\2.8.5"
+    }
+  },
+  "has-symbols": {
+    "1.0.3": {
+      "path": "\\node_modules\\has-symbols",
+      "cache": "\\has-symbols\\1.0.3"
+    }
+  },
+  "filelist": {
+    "1.0.4": {
+      "path": "\\node_modules\\filelist",
+      "cache": "\\filelist\\1.0.4"
+    }
+  },
+  "has-flag": {
+    "4.0.0": {
+      "path": "\\node_modules\\has-flag",
+      "cache": "\\has-flag\\4.0.0"
+    }
+  },
+  "bufferutil": {
+    "4.0.7": {
+      "path": "\\node_modules\\bufferutil",
+      "cache": "\\bufferutil\\4.0.7"
+    }
+  },
+  "utf-8-validate": {
+    "5.0.10": {
+      "path": "\\node_modules\\utf-8-validate",
+      "cache": "\\utf-8-validate\\5.0.10"
+    }
+  },
+  "color-convert": {
+    "2.0.1": {
+      "path": "\\node_modules\\color-convert",
+      "cache": "\\color-convert\\2.0.1"
+    }
+  },
+  "object-assign": {
+    "4.1.1": {
+      "path": "\\node_modules\\object-assign",
+      "cache": "\\object-assign\\4.1.1"
+    }
+  },
+  "object-inspect": {
+    "1.12.2": {
+      "path": "\\node_modules\\object-inspect",
+      "cache": "\\object-inspect\\1.12.2"
+    }
+  },
+  "node-gyp-build": {
+    "4.5.0": {
+      "path": "\\node_modules\\node-gyp-build",
+      "cache": "\\node-gyp-build\\4.5.0"
+    }
+  },
+  "color-name": {
+    "1.1.4": {
+      "path": "\\node_modules\\color-name",
+      "cache": "\\color-name\\1.1.4"
+    }
+  },
+  "async": {
+    "3.2.4": {
+      "path": "\\node_modules\\async",
+      "cache": "\\async\\3.2.4"
+    }
+  },
+  "@types/node": {
+    "18.11.7": {
+      "path": "\\node_modules\\@types\\node",
+      "cache": "\\@types\\node\\18.11.7"
+    }
+  },
+  "@types/cors": {
+    "2.8.12": {
+      "path": "\\node_modules\\@types\\cors",
+      "cache": "\\@types\\cors\\2.8.12"
+    }
+  }
+}
